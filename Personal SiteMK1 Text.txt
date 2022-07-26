@@ -1,0 +1,3 @@
+// Lembrando que o nome do Site pessoal é: "Personal site Mk1"
+
+Consertar a Linkagem de duas páginas, Sobre e Aulas.
